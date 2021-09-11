@@ -13,7 +13,6 @@ function Header() {
             {" | "}
             <NavLink activeStyle={activeStyle} to="/about">About</NavLink>
         </nav>
-
     );
 }
 
