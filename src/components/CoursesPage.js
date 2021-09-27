@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { getCourses } from "../api/courseApi";
 import CourseList from "./course_list";
+import { Link } from 'react-router-dom';
 
 function CoursesPage() {
     const [courses, setCourses] = useState([]);
@@ -14,6 +15,9 @@ function CoursesPage() {
     return (
         <>
             <h2>Courses</h2>
+            <Link className="btn btn-primary" to="/course">
+                Add A Course
+            </Link>
             <CourseList courses={courses} />
         </>
     );
