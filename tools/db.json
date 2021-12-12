@@ -1,9 +1,37 @@
 {
   "courses": [
     {
+      "id": 1,
+      "title": "Securing React Apps with Auth0",
+      "slug": "react-auth0-authentication-security",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "React: The Big Picture",
+      "slug": "react-big-picture",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Creating Reusable React Components",
+      "slug": "react-creating-reusable-components",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
       "id": 5,
       "title": "Building Applications with React and Redux",
       "slug": "react-redux-react-router-es6",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 6,
+      "title": "Building Applications in React and Flux",
+      "slug": "react-flux-building-applications",
       "authorId": 1,
       "category": "JavaScript"
     },
@@ -27,13 +55,6 @@
       "slug": "career-reboot-for-developer-mind",
       "authorId": 1,
       "category": "Career"
-    },
-    {
-      "id": 10,
-      "title": "Web Component Fundamentals",
-      "slug": "web-components-shadow-dom",
-      "authorId": 1,
-      "category": "HTML5"
     }
   ],
   "authors": [
