@@ -21,7 +21,7 @@
     "prestart:api": "node tools/createMockDb.js",
     "start:api": "node tools/apiServer.js",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "playwright test --config=tests/playwright.config.js",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@playwright/test": "^1.17.1",
     "cross-env": "^5.2.0",
     "css-loader": "^6.2.0",
     "json-server": "^0.15.0",
