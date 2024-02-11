@@ -1,7 +1,8 @@
 <a id="readme-top"></a>
 ## About The Project
+![Product Name Screen Shot](https://github.com/mrexiati/react-course-app/assets/50190023/54a9afe9-0e67-4d6c-9b39-4be84a4e974c)
 
-This is a course app that user can add, edit and delete courses and it's built with React.
+This is a course app that user can add, edit and delete courses and it's built with React and a sample PalyWright automation coverage.
 
 <p align="right"><a href="#readme-bottom">Jump to the bottom</a></p>
 
