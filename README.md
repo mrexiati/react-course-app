@@ -9,7 +9,7 @@ This is a course app that user can add, edit and delete courses and it's built w
 <br>
 
 ### Built With
-[![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)](https://reactjs.org/) 
+[![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)](https://reactjs.org/) ![Playwright](https://img.shields.io/badge/-Playwright-53BDEC?style=flat-square&logo=Playwright&logoColor=white)
 
 <br>
 
